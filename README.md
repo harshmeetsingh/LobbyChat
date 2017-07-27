@@ -1,2 +1,2 @@
-# LobbyChat
-A Social Network App
+# Lobby-Connect
+A different type of social Network
